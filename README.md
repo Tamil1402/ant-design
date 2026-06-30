@@ -187,8 +187,4 @@ If you are a collaborator, please follow our [Pull Request Principle](https://gi
 
 ## Instead of Poll SCM, configure GitHub Webhooks so Jenkins starts a build immediately after you push code.
 
-## You'll learn:
 
-## GitHub webhook configuration
-## Automatic builds without polling
-## Real-time C
